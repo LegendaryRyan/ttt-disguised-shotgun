@@ -1,5 +1,8 @@
 --Created by Legendary Ryan
 --https://steamcommunity.com/id/LegendaryRyan/
+if SERVER then 
+  resource.AddWorkshop("2888442551") --workshop id for this addon so the materials download for your clients
+end
 
 AddCSLuaFile()
 
